@@ -8,6 +8,10 @@
 Menu Driven Pattern Generator and Number Analyzer
 
 ## Objective
+<img width="1622" height="765" alt="Screenshot 2026-06-23 161509" src="https://github.com/user-attachments/assets/2e5e1148-7346-4d4e-a9d3-44b3b5d3f476" />
+
+
+
 This project demonstrates the use of:
 - Loops
 - Control Statements
