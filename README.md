@@ -26,6 +26,10 @@ This project demonstrates the use of:
 
 
 2. Analyze numbers in a given range.
+<img width="1568" height="398" alt="Screenshot 2026-06-23 162158" src="https://github.com/user-attachments/assets/5099f548-686d-46f8-91e6-f399709d2f29" />
+
+
+
 3. Exit the program.
 
 ## Control Statements Used
