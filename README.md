@@ -31,6 +31,9 @@ This project demonstrates the use of:
 
 
 3. Exit the program.
+<img width="1559" height="67" alt="Screenshot 2026-06-23 162324" src="https://github.com/user-attachments/assets/9506e5c0-60ba-48c7-84b3-380d6f0953e7" />
+
+
 
 ## Control Statements Used
 ### break
