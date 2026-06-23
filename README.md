@@ -21,6 +21,10 @@ This project demonstrates the use of:
 
 ## Features
 1. Generate a Right-Angled Triangle Pattern.
+<img width="1569" height="255" alt="Screenshot 2026-06-23 162124" src="https://github.com/user-attachments/assets/5cbea76e-f5e6-4e4d-851c-f07199b48186" />
+
+
+
 2. Analyze numbers in a given range.
 3. Exit the program.
 
