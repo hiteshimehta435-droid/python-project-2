@@ -1,6 +1,6 @@
 <img width="1713" height="918" alt="ChatGPT Image Jun 23, 2026, 03_00_31 PM" src="https://github.com/user-attachments/assets/18559a5b-bbe5-456e-995c-3fbf814f9821" />
 
-"E:\New folder (6)\Screenrecording_20260611_180038.mp4"
+
 
 # Python Project 2
 
